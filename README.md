@@ -2,6 +2,11 @@
 
 A minimal GitHub inbox TUI built with Bubble Tea.
 
+## Motivation
+
+GitHub notifications get noisy fast. This TUI keeps your review and issue
+inbox focused, fast to scan, and keyboard-driven without living in the browser.
+
 ## Requirements
 
 - Go 1.24+

@@ -15,8 +15,6 @@ inbox focused, fast to scan, and keyboard-driven without living in the browser.
 ## Run
 
 ```bash
-export GITHUB_TOKEN=your_token
-
 go run ./cmd/github_inbox_tui
 ```
 
